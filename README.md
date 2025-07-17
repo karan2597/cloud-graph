@@ -1,6 +1,8 @@
 
 # Cloud Graph Visualization
 
+Requires Node version >=18
+
 ## Project Summary
 
 This project is a React-based interactive visualization tool for cloud infrastructure. It displays a hierarchical, collapsible graph of cloud accounts and services, with real-time alert and misconfiguration counts. Users can expand/collapse nodes, filter by alert or misconfiguration type, and visually explore the structure and health of their cloud environment. The app is fully interactive, responsive, and runs in the browser at [http://localhost:5173/](http://localhost:5173/).
